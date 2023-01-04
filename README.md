@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luerenbaum
 - 👀 I’m interested in almost everything related to PCs: developing & programming, server administration, and of course also computer games!
-- 🌱 I’m currently learning Python and C/C++
+- 🌱 I’m currently learning JavaScript React and building reactive web apps
 - 📫 How to reach me: leave me a message at hello@luerenbaum.com
 
 <!---
